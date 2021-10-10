@@ -1,0 +1,1 @@
+This is the source code of our published paper entitled “Neural Network Algorithm With Reinforcement Learning for Parameters Extraction of Photovoltaic Models”. In this paper, an improved NNA, named Neural Network Algorithm With Reinforcement Learning, is proposed for parameters extraction of photovoltaic models. 
